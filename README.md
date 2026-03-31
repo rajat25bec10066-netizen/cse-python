@@ -178,6 +178,6 @@ Browser plugin version
 
 Author:
 
- Name Yogesh
+ Name RAJAT YADAV
 Institution  VIT BHOPAL UNIVERSITY
 (Year 2025–26)
