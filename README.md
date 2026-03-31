@@ -178,6 +178,7 @@ Browser plugin version
 
 Author:
 
- Name RAJAT YADAV
+ Name RAJAT
 Institution  VIT BHOPAL UNIVERSITY
 (Year 2025–26)
+
